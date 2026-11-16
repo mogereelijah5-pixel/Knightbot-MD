@@ -6,7 +6,7 @@ const settings = {
   botName: "Knight Bot",
   botOwner: 'Thee Michaels', // Your name
   ownerNumber: '254791700150'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
-  commandMode: "public",
+  commandMode: "private ",
   maxStoreMessages: 20, 
   storeWriteInterval: 10000,
   description: "This is a bot for managing group commands and automating tasks.",
